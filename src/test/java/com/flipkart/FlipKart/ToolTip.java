@@ -32,7 +32,6 @@ public class ToolTip {
 			String dest = driver.findElement(By.xpath("//a[text()='App Live']")).getAttribute("data-header-tooltip");
 			System.out.println(dest);			
 			driver.quit();
-			
 		
 	}
 
