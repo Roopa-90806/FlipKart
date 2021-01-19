@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.flipkart.FlipKart.GeneralStoreTilt">
+      <class name="com.flipkart.FlipKart.ToGetPriceOfIphoneAndWriteToExcel">
         <methods>
-          <include name="generalTilt"/>
+          <include name="teGrt"/>
         </methods>
-      </class> <!-- com.flipkart.FlipKart.GeneralStoreTilt -->
+      </class> <!-- com.flipkart.FlipKart.ToGetPriceOfIphoneAndWriteToExcel -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20706" started-at="2021-01-06T03:47:47Z" finished-at="2021-01-06T03:48:08Z">
+  <suite name="Default suite" duration-ms="27929" started-at="2021-01-09T14:48:17Z" finished-at="2021-01-09T14:48:45Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20706" started-at="2021-01-06T03:47:47Z" finished-at="2021-01-06T03:48:08Z">
-      <class name="com.flipkart.FlipKart.GeneralStoreTilt">
-        <test-method status="PASS" signature="generalTilt()[pri:0, instance:com.flipkart.FlipKart.GeneralStoreTilt@4f933fd1]" name="generalTilt" duration-ms="20668" started-at="2021-01-06T09:17:47Z" finished-at="2021-01-06T09:18:08Z">
+    <test name="Default test" duration-ms="27929" started-at="2021-01-09T14:48:17Z" finished-at="2021-01-09T14:48:45Z">
+      <class name="com.flipkart.FlipKart.ToGetPriceOfIphoneAndWriteToExcel">
+        <test-method status="PASS" signature="teGrt()[pri:0, instance:com.flipkart.FlipKart.ToGetPriceOfIphoneAndWriteToExcel@6767c1fc]" name="teGrt" duration-ms="27767" started-at="2021-01-09T20:18:17Z" finished-at="2021-01-09T20:18:45Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- generalTilt -->
-      </class> <!-- com.flipkart.FlipKart.GeneralStoreTilt -->
+        </test-method> <!-- teGrt -->
+      </class> <!-- com.flipkart.FlipKart.ToGetPriceOfIphoneAndWriteToExcel -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
